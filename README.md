@@ -1,4 +1,4 @@
-capi5k-hello
-============
+hadoop-capistrano
+=================
 
-Hello world module for capi5k
+Hadoop capistrano recipes for grid'5000
